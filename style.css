@@ -1,0 +1,24 @@
+div.texto {
+  display: flex;
+  margin: 10px;
+  background-color: grey;
+  color: #333; 
+}
+div.titulo {
+  display: flex;
+  background-color: grey;
+  color: #333; 
+  margin: 10px;
+}
+div.sufjan {
+  display: flex;
+  background-color: grey;
+  color: #333; 
+  margin: 10px;
+}
+div.stevens div{
+  display: flex;
+  background-color: grey;
+  color: #333; 
+  margin: 10px;
+}
