@@ -25,3 +25,7 @@ O formulário inclui os seguintes campos:
 - Email
 ```
 Como uma das ferramentas utilizadas fora o Bootstrap 5, os campos para o preenchimento de seus dados está no layout grid system do Bootstrap.
+
+## Preenchimento
+
+Para preencher, será necessário colocar suas informações pessoais nesta página: (https://uchoamarcos.github.io/formul-rio/)
