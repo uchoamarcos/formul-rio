@@ -1,0 +1,30 @@
+div.menuPrincipal{
+  display: flex;
+  padding: 10px;
+  gap: 10px;
+  border-radius: 10px;
+  background-color: lightblue;
+  width: 1500px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+div.menuPrincipal div{
+  padding: 10px;
+  min-width: 100px;
+  flex-wrap: wrap;
+  background-color: #32545e;
+  border-radius: 20px;
+  text-align: center;
+}
+a{
+  mind-width: 900px;
+  text-decoration: underline;
+  color: black;
+}
+div.menuPrincipal div:nth-child(2){
+  background-color: #825f85;
+}
+
+div.menuPrincipal div:nth-child(3){
+  background-color: #674d69;
+}
