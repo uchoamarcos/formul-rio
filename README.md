@@ -1,6 +1,6 @@
 # Formulário Detran
 
-[Para acessar o formulário, clique aqui:] (https://codepen.io/uchoamarcos/pen/QwGVMyZ)
+Para vizualizar o pen do formulário, clique aqui: (https://codepen.io/uchoamarcos/pen/QwGVMyZ)
 
 ## Cadastro de Clientes
 
