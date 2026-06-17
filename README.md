@@ -2,7 +2,7 @@
 
 Para vizualizar o pen do formulário, clique aqui: (https://codepen.io/uchoamarcos/pen/QwGVMyZ)
 
-## Cadastro de Clientes
+## Declaração de Residência
 
 Este projeto consiste em um formulário HTML responsivo para **cadastro de clientes**, utilizando a biblioteca [Bootstrap 5] (https://getbootstrap.com/) para estilização e organização dos elementos.
 
